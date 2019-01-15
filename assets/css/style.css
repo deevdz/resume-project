@@ -4,6 +4,15 @@
 body {
     background-color:#090c08;
 }
+
+.bg-color-conferences {
+    background-color: #f4f4f4;
+}
+
+.bg-color-groups {
+    background-color: #ffffff;
+}
+
 .bg-color-name-title {
     background-color: #090c08;
 }
@@ -22,6 +31,13 @@ body {
 
 .ul-menu-color-download {
     background-color: #C86957;
+}
+
+.ul-menu-color-interests {
+    background-color: #9d6381;
+}
+.ul-menu-color-github {
+    background-color: #709255;
 }
 
 .bg-color-three-reasons {
@@ -357,6 +373,10 @@ button[type="submit"] {
     margin-top:10px;
 }
 
+/*--------------------------------------------Map*/
+div#map {
+    min-height: 360px;
+}
 
 
 /*---Media Queries ---*/
